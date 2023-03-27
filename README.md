@@ -3,7 +3,7 @@ ZAŁOŻENIA:
 Na pierwszej stronie, lista zadań do wykonania z kategoriami:  
 a) data  
 b) ważność zadania  
-Możliwość dodania, usunięcia i edytowania listy oraz kategorii  
+Możliwość dodania, usunięcia i edytowania listy oraz priorytetu  
 Kategorie są tworzone bezpośrednio przez uzytkownika   
 Aktywne "okno" historii w których będzie zapisywane zadanie po usuniciu
 Ogólnie 3 okna - jedno główne z pokazanymi dodanymi zadaniami z kategoriami, okno edycji i okno dodawania/edytowania  
